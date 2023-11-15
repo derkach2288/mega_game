@@ -1,3 +1,1 @@
 # mega_game
-
--Pavel
