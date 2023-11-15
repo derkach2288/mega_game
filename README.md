@@ -1,2 +1,6 @@
 # mega_game
--Pavel
+
+- Pavel
+- Oleksandr Derkach
+- Egor
+- Anastasia
