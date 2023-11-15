@@ -1,4 +1,7 @@
 # mega_game
 
-Ruslan
-
+- Ruslan
+- Pavel
+- Oleksandr Derkach
+- Egor
+- Anastasia
